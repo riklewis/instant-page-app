@@ -6,7 +6,7 @@ Cloudflare app to include [instant.page](https://instant.page) library
 Status
 ======
 
- [![Stability](https://img.shields.io/badge/stability-unstable-red.svg?style=flat)](https://github.com/riklewis/instant-page-app)]
+ [![Stability](https://img.shields.io/badge/stability-unstable-red.svg?style=flat)](https://github.com/riklewis/instant-page-app)
 
 Requirements
 ============
