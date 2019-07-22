@@ -4,9 +4,17 @@
     "body": [
       {
         "type": "script",
-        "src": "./app.js"
+        "src": "./instant.page.min.js"
       }
     ]
   },
-  "options": {}
+  "options": {
+    "properties": {}
+  },
+  "preview": {
+    "handlers": []
+  },
+  "hooks": [],
+  "dns": [],
+  "workers": []
 }
