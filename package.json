@@ -1,6 +1,6 @@
 {
   "name": "instant-page-app",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Cloudflare app to include instant.page library",
   "main": "app.js",
   "scripts": {
@@ -18,12 +18,12 @@
   ],
   "author": {
     "name": "Rik Lewis",
-    "email": "rik@rik.onl"
+    "email": "rik@riklewis.com"
   },
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/riklewis/instant-page-app/issues",
-    "email": "rik@rik.onl"
+    "email": "rik@riklewis.com"
   },
   "homepage": "https://github.com/riklewis/instant-page-app"
 }
